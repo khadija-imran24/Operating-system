@@ -18,25 +18,25 @@
 
 ![](imgs/4.png)
 
-![](imgs\5.png)
+![](imgs/5.png)
 
 5. **Display the first two lines of first file.**
 
 6. **Display the last two lines of second file.**
 
-   ![](imgs\6.png)
+   ![](imgs/6.png)
 
 7. **Finds the string (your roll#) from the first file.** 
 
 8. **Grant the execute permission of the second file to the group.** 
 
-   ![](imgs\7.png)
+   ![](imgs/7.png)
 
-   ![](imgs\8.png)
+   ![](imgs/8.png)
 
 **9. Remove the write permission for the owner**
 
-![](imgs\9.png)
+![](imgs/9.png)
 
 **10.Now Mr. Tom suddenly lost the track of his current location. Help him find his location.** 
 
@@ -48,13 +48,13 @@
 
  **14.He is done with the task and he is happy with your work. He want to display a thankyou message.**
 
-![](imgs\10.png)
+![](imgs/10.png)
 
 ## Task2:
 
 1. **Create a file named “19f-XXXX_OS-lab_rules.txt” using linux commands. The file must contain all lab rules covered in first lab.** 
 
-   ![](imgs\11.png)
+   ![](imgs/11.png)
 
 2. **You want to set the rights of created file to this (- rwx r-x r--). For these rights, you are required to convert the given rights in numeric format using binary number system procedure covered in lecture. Show complete working.** 
 
@@ -66,8 +66,8 @@
 
 3.  **Now use the derived number to change the permission of a file using chmod command.**  
 
-   ![](imgs\12.png)
+   ![](imgs/12.png)
 
 4. **Append the output of ls command to created file**
 
-![](imgs\13.png)
+![](imgs/13.png)
