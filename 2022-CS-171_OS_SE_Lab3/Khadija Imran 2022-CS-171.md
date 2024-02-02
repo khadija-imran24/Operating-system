@@ -24,7 +24,7 @@
 
 6. **Display the last two lines of second file.**
 
-   ![](6.png)
+   ![](imgs\6.png)
 
 7. **Finds the string (your roll#) from the first file.** 
 
