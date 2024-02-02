@@ -7,36 +7,36 @@
 1. **Create a file named “19f-XXXX.txt”. File must contain at least 10 lines.** 
 2.  **Create another file named “your name.txt”. File must contain at least 10 lines.**
 
-![2](2022-CS-171_OS_SE_Lab3/imgs/1.png)
+![](imgs/1.png)
 
-![3](2022-CS-171_OS_SE_Lab3/imgs/2.png)
+![](imgs/2.png)
 
-![1](2022-CS-171_OS_SE_Lab3/imgs/3.png)
+![](imgs/3.png)
 
 3. **Merge the data of both files.** 
 4. **Redirect the output to a new file.** 
 
-![4](imgs\4.png)
+![](imgs\4.png)
 
-![5](imgs\5.png)
+![](imgs\5.png)
 
 5. **Display the first two lines of first file.**
 
 6. **Display the last two lines of second file.**
 
-   ![6](6.png)
+   ![](6.png)
 
 7. **Finds the string (your roll#) from the first file.** 
 
 8. **Grant the execute permission of the second file to the group.** 
 
-   ![7](imgs\7.png)
+   ![](imgs\7.png)
 
-   ![8](imgs\8.png)
+   ![](imgs\8.png)
 
 **9. Remove the write permission for the owner**
 
-![9](imgs\9.png)
+![](imgs\9.png)
 
 **10.Now Mr. Tom suddenly lost the track of his current location. Help him find his location.** 
 
@@ -48,13 +48,13 @@
 
  **14.He is done with the task and he is happy with your work. He want to display a thankyou message.**
 
-![10](imgs\10.png)
+![](imgs\10.png)
 
 ## Task2:
 
 1. **Create a file named “19f-XXXX_OS-lab_rules.txt” using linux commands. The file must contain all lab rules covered in first lab.** 
 
-   ![11](imgs\11.png)
+   ![](imgs\11.png)
 
 2. **You want to set the rights of created file to this (- rwx r-x r--). For these rights, you are required to convert the given rights in numeric format using binary number system procedure covered in lecture. Show complete working.** 
 
@@ -66,8 +66,8 @@
 
 3.  **Now use the derived number to change the permission of a file using chmod command.**  
 
-   ![12](imgs\12.png)
+   ![](imgs\12.png)
 
 4. **Append the output of ls command to created file**
 
-![13](2022-CS-171_OS_SE_Lab3\imgs\13.png)
+![](imgs\13.png)
