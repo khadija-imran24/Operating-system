@@ -16,7 +16,7 @@
 3. **Merge the data of both files.** 
 4. **Redirect the output to a new file.** 
 
-![](imgs\4.png)
+![](imgs/4.png)
 
 ![](imgs\5.png)
 
