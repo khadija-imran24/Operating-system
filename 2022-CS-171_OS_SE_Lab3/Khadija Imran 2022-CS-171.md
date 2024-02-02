@@ -7,11 +7,11 @@
 1. **Create a file named “19f-XXXX.txt”. File must contain at least 10 lines.** 
 2.  **Create another file named “your name.txt”. File must contain at least 10 lines.**
 
-![2](imgs\2.png)
+![2](2022-CS-171_OS_SE_Lab3/imgs/1.png)
 
-![3](imgs\3.png)
+![3](2022-CS-171_OS_SE_Lab3/imgs/2.png)
 
-![1](imgs\1.png)
+![1](2022-CS-171_OS_SE_Lab3/imgs/3.png)
 
 3. **Merge the data of both files.** 
 4. **Redirect the output to a new file.** 
